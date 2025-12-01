@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: #8A0000; /* CSUN red */
+}
+
+img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 15px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+th {
+    background-color: #ddd;
+    font-weight: bold;
+}
